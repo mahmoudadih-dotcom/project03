@@ -1,0 +1,18 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    background-color: #f4f4f9;
+}
+
+#my-title {
+    color: #333;
+    font-size: 2.5rem;
+    transition: all 0.4s ease;
+}
+.active {
+    color: #00b894; 
+    transform: scale(1.15); 
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
